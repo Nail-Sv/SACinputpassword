@@ -1,4 +1,5 @@
 (function() {
+	
     let _shadowRoot;
     let _id;
     let _password;
